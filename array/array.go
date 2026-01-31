@@ -2,7 +2,7 @@ package array
 
 import "fmt"
 
-func main() {
+func Array() {
 	var x [5]float64
 	x[0] = 5.3
 	x[1] = 8
